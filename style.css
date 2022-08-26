@@ -1,0 +1,24 @@
+.form-container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.table td{
+    padding: 5px 0 0 20px;
+    margin: 15px 0 0 20px;
+}
+.form-container form table td select{
+    padding: 5px  30px 0 20px;
+    margin: 15px 0 0 30px;
+}
+
+.form-container form{
+    border: 1px solid black;
+    background: #dada4c;
+    color: blue;}
+}
+
+#candiachi{
+    margin: 100px;
+}
